@@ -13,9 +13,7 @@ This web service makes Machine Learning models available with REST API. It is di
 
 In the `research` directory there are:
 
-- code for training machine learning models on Adult-Income dataset [link](https://github.com/pplonski/my_ml_service/blob/master/research/train_income_classifier.ipynb)
-- code for simulating A/B tests [link](https://github.com/pplonski/my_ml_service/blob/master/research/ab_test.ipynb)
+- code for training machine learning models on Adult-Income dataset [link](https://github.com/JAY301/ml_service/blob/main/research/train_income_classifier.ipynb)
+- code for simulating A/B tests [link](https://github.com/JAY301/ml_service/blob/main/research/ab_test.ipynb)
 
 In the `backend` directory there is Django application.
-
-In the `docker` directory there are dockerfiles for running the service in the container.
