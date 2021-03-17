@@ -1,6 +1,6 @@
 # Deploy Machine Learning Models with Django
 
-This is a source code from the tutorial available at [deploymachinelearning.com](https://deploymachinelearning.com)
+This code is inspired from the tutorial available at [deploymachinelearning.com](https://deploymachinelearning.com)
 
 This web service makes Machine Learning models available with REST API. It is different from most of the tutorials available on the internet:
 
@@ -19,8 +19,3 @@ In the `research` directory there are:
 In the `backend` directory there is Django application.
 
 In the `docker` directory there are dockerfiles for running the service in the container.
-
-
-## Django + React Tutorial :books:
-
-I'm working on complete tutorial how to build SaaS (software as a Service) application with Django and React from scratch. The tutorial is available at [SaaSitive](https://saasitive.com) website: https://saasitive.com/django-react/boilerplate/
